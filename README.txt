@@ -26,14 +26,10 @@ Features:
 - Cart with quantity controls
 - Checkout section with total calculation
 
-How to run:
-1. Extract the ZIP.
-2. Open the folder in VS Code.
-3. Use a local server extension, or run a simple local server.
-4. Open index.html through the local server.
+
 
 Why use a local server:
-The project fetches data from data/menu.json. Some browsers block fetch for local file paths.
+The project fetches data from data/menu.json. 
 
 Vendor demo login:
 - Email: vendor@campusfoodlink.com
